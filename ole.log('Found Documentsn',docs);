@@ -1,0 +1,60 @@
+[33mcommit 8f65cba269d2d5e1ac9c369ad2deadb280d8762e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Thu Oct 22 14:50:54 2020 +0530
+
+    Node MongoDB operations
+
+[33mcommit ba024319c26e213f53904f9df91bc1e19543e367[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Thu Oct 22 12:17:36 2020 +0530
+
+    Node MongoDB
+
+[33mcommit 146243d504fb4f9944fdd1f23f5200ef90c4befd[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 20:23:45 2020 +0530
+
+    Express Generator REST API
+
+[33mcommit 5e4c98641018448b7c06dd7547ba232a6c90fe33[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 20:12:56 2020 +0530
+
+    Express Generator
+
+[33mcommit 8b38372e39f58a64b911a08f384403eab7967f3f[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 19:56:57 2020 +0530
+
+    assignment 1
+
+[33mcommit 4d5db7aa11f00669a2ca32c6ea526f45b1a64ec6[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 10:39:23 2020 +0530
+
+    Express REST API
+
+[33mcommit 8aea5ed74c9719024fec3cc1f66d5217dfad51fb[m
+Merge: 517fefb b51ab7d
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 09:57:12 2020 +0530
+
+    Merge branch 'master' of https://github.com/harshit977/Server-Side-Development into master
+
+[33mcommit 517fefbe9acb1a3769de50d64eeca0eababec60b[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 09:56:43 2020 +0530
+
+    Express Serve Static Files
+
+[33mcommit b51ab7d0fba9f2a601b3772942b81a5afb462dfa[m
+Author: Harshit Sharma <66196066+harshit977@users.noreply.github.com>
+Date:   Wed Oct 21 09:49:44 2020 +0530
+
+    Create README.md
+
+[33mcommit b50d23b1777cb2d46f8ff8ed8977d3e4c02595ae[m
+Author: Harshit Sharma <harshitsharmabtp@gmail.com>
+Date:   Wed Oct 21 09:47:37 2020 +0530
+
+    http server and express intro.
