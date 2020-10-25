@@ -10,7 +10,7 @@ router.get('/', function(req, res, next) {
   res.send('respond with a resource');
 });
 
-router.post('/signup', function(req,res,next) {
+router.post('/signup', (req,res,next) => {
 
   User.findOne({username: req.body.username})
   .then((user) => {
